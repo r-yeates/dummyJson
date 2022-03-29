@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Business School Workshop",
+      "description": "This is a business school coding session",
+      "location": "The Dome",
+      "startTime": "11:00",
+      "endTime": "13:00",
+    }
+    {
+      "id": 2,
+      "title": "Business School Welcome Talk",
+      "description": "Hello from the business school",
+      "location": "The Dome",
+      "startTime": "09:00",
+      "endTime": "09:30",
+    }
+  ],
+}
